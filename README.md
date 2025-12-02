@@ -1,3 +1,2 @@
-# lap1
--ai-gmae-
+# lap1-ai-gmae-
 lap 
